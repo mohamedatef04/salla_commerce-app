@@ -64,7 +64,7 @@
 
 2. Cd Over
 ```
-   cd auvnet_internship_task
+   cd salla_commerce_app
 ```
 
 3. Run Pub
