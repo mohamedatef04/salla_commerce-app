@@ -59,7 +59,7 @@
 
 1. Open Terminal and Clone the Repo
 ```
-  git clone https://github.com/mohamedatef04/AUVNET-Flutter-Internship-Assessment.git
+  git clone https://github.com/mohamedatef04/salla_commerce-app.git
 ```
 
 2. Cd Over
